@@ -1,6 +1,6 @@
-import React from 'react'
-import Calculator2 from './calculator.js'
+import React from 'react';
+import {Calculator2} from './calculator';
 
 export default function App() {
-  return <Calculator2/>
+  return <Calculator2/>;
 }
